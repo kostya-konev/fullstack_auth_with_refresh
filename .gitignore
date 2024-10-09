@@ -3,7 +3,8 @@ server/node_modules/
 client/node_modules/
 
 # Ignore .env file in server folder
-server/.env
+server/.DS_Store
+
 
 # Ignore .idea folder
 .idea
